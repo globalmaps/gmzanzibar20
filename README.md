@@ -9,4 +9,4 @@ Credit: Global Map of Zanzibar © ISCGM/ Department of Surveys and Mapping, Zanz
 
 Contact: Department of Surveys and Mapping.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/zanzibar.png)
+E-mail: ![email](email.png)
